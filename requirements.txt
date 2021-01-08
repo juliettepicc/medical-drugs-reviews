@@ -1,0 +1,9 @@
+voila
+voila-material
+bqplot
+pandas
+numpy
+ipywidgets
+datetime
+matplotlib.pyplot
+matplotlib==3.2.0
