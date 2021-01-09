@@ -6,4 +6,4 @@ numpy
 ipywidgets
 pylab
 matplotlib.pyplot
-matplotlib==3.1.1
+matplotlib==3.2.0
