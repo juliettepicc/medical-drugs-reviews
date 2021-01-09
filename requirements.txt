@@ -4,5 +4,6 @@ bqplot
 pandas
 numpy
 ipywidgets
-matplotlib.pyplot
+datetime
 matplotlib==3.2.0
+matplotlib.pyplot
